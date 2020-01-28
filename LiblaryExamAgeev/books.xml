@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book Id="1" Title="Война и мир" Author="Лев Толстой" Genre="Исторический роман" YearPublished="1980" Publisher="Эксмо" Rating="5" />
+  <book Id="2" Title="Война миров" Author="Герберт Уэллс," Genre="Фантастический роман" YearPublished="1980" Publisher="Эксмо" Rating="5" />
+</books>
